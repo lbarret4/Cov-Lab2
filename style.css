@@ -4,13 +4,27 @@ body {
 
 }
 
-h2, p, a  {
+h2, p, .readme-Wrapper{
     text-align: center;
 }
 
 a {
-    display:block;
     text-decoration: none;
-    color:orange;
+    color:#d48a00;
+}
+.boxes {
+    display: inline-block;
+    margin: 1vh 5vh 2vh 4vh;
+    padding: 2%;
+    border: solid;
+    box-shadow: 2px 2px 5px 5px #01632f ;
+    
+}
+
+a:hover {
+    cursor:pointer;
+    font-weight: bold;
+    color:blueviolet;
+
 }
 
