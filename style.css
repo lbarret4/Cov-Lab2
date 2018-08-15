@@ -40,9 +40,6 @@ span {
 
 #box2 {
     background: #d7faeb;
-    position: absolute;
-    top: 0vh;
-    left: 76vw;
     
 }
 
@@ -54,3 +51,11 @@ span {
 	background: #f8fad7;
 }
 
+.story-image {
+	width: 20em;
+	height: 10em;
+    background: #090909cc;
+    position: relative;
+    top: -0.5em;
+    left: 0.5em;
+}
