@@ -13,12 +13,13 @@ a {
     color:#d48a00;
 }
 .boxes {
-    display: inline-block;
-    margin: 1vh 5vh 2vh 4vh;
-    padding: 2%;
+    display: block;
+    margin: 1vh 2vh 2vh 2vh;
+    padding: 1%;
     border: solid;
-    box-shadow: 2px 2px 5px 5px #01632f ;
-    
+    border-radius: 25px;
+    width: 20%;
+     
 }
 
 a:hover {
@@ -26,5 +27,29 @@ a:hover {
     font-weight: bold;
     color:blueviolet;
 
+}
+
+span {
+    color:blue;
+    font-weight: 550;
+}
+
+#box1 {
+	background: #faebd7;
+}
+
+#box2 {
+    background: #d7faeb;
+    position: relative;
+    left: 392px;
+    top: -241px;
+}
+
+#box3 {
+	background: #ebd7fa;
+}
+
+#box4 {
+	background: #f8fad7;
 }
 
