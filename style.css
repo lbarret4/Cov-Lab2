@@ -62,6 +62,14 @@ h1 {
     color:blue;
 }
 
+.star-title {
+    color:goldenrod;
+}
+
+/* .f-title {
+    color:red;
+} */
+
 /* #tng {
     color:blue;
 
@@ -72,7 +80,7 @@ h1 {
 }
 
 #sg1 {
-    color:gold;
+    color:goldenrod;
 }
 
 #fireFly {
@@ -81,7 +89,7 @@ h1 {
  } 
 
  #farscape{
-     color:lightseagreen;
+     color:blue
  }
  
  */
