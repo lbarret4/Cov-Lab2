@@ -40,9 +40,9 @@ span {
 
 #box2 {
     background: #d7faeb;
-    position: relative;
-    left: 392px;
-    top: -241px;
+    position: absolute;
+    left: 1280px;
+    top: -5px;
 }
 
 #box3 {
